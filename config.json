@@ -35,8 +35,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100005193854879",
-    "61567325751299"
+    "100063577327722",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
@@ -45,7 +45,7 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯",
+  "nickNameBot": "angel",
   "prefix": "?",
   "BaYjidnapi": "",
   "api": "",
